@@ -1,6 +1,6 @@
 
-train: ../input/dataset-bekerja/safety/images/train  # train images (relative to 'path') 128 images
-val: ../input/dataset-bekerja/safety/images/val  # val images (relative to 'path') 128 images
+train: /kaggle/working/input/dataset-bekerja/safety/images/train  # train images (relative to 'path') 128 images
+val: /kaggle/working/input/dataset-bekerja/safety/images/val  # val images (relative to 'path') 128 images
 
 
 # Classes
