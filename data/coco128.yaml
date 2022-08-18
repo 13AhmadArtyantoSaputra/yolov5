@@ -9,5 +9,6 @@ nc: 4  # number of classes
 names: ['helm', 'pakaian', 'celana', 'sepatu']  # class names
 
 # Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
+download: https://github.com/13AhmadArtyantoSaputra/datasets/archive/refs/heads/main.zip
+# https://ultralytics.com/assets/coco128.zip
 
